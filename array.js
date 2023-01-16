@@ -1,4 +1,4 @@
-const names = ['Chiheb', 'Chrifa', 'Sondes', 'Sami'];
+const names = ["Ibtihel", "Oumayma", "Saif", "Nidhal", "Sahar"];
 
 // for loop
 for (let index = 0; index < names.length; index++) {
