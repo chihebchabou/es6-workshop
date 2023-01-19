@@ -8,7 +8,7 @@
 */
 
 // Array
-const names = ["Ibtihel", "Oumayma", "Saif", "Nidhal", "Sahar"];
+const names = ["Chiheb", "amen", "Amira"];
 
 // Using array index
 // const chiheb = names[0];
